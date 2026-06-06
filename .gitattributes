@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+background:'#67595E'
+background-color: #fff0ee;
+color: #bd301d;
+    accent-color: #bd301d;
+background-color: #67595e;
+    color: #eed6d3;
+      color: white;
+    background-color: #bd301d;
+    border: 2px solid #bd301d;
+        background-color: transparent;
+    color: #555;
